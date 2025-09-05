@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Mis videos favoritos</h1>
+        <p>Aquí hay una colección de mis videos favoritos</p>
+
+        <section>
+            <h2>Video 1</h2>
+            <p>Video de Paulo Londra "Y yo no sé"</p>
+            <iframe width="320" height="240" 
+                    src="https://www.youtube.com/embed/M1OGNLAH_XM" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    title="Video de Paulo Londra - Y yo no sé"></iframe>
+        </section>
+
+        <section>
+            <h2>Video 2</h2>
+            <p>Video de Paulo Londra "Me tiene mal"</p>
+            <iframe width="320" height="240" 
+                    src="https://www.youtube.com/embed/U28pYrR8TI0" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    title="Video de Paulo Londra - Me tiene mal"></iframe>
+        </section>
+
+        <section>
+            <h2>Video 3</h2>
+            <p>Video de Paulo Londra "Solo pienso en ti"</p>
+            <iframe width="320" height="240" 
+                    src="https://www.youtube.com/embed/1GS7wxWPaxc" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    title="Video de Paulo Londra - Solo pienso en ti"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
