@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Viajes increíbles con nuestra agencia: paquetes y tours para todos.">
+    <title>Dream Travel Agency</title>
+  </head>
+  <body>
+    <h1>Explore Our Travel Destinations</h1>
+    <p>Discover amazing opportunities to travel the world with us.</p>
 
+    <h2>Packages</h2>
+    <p>We offer a variety of travel packages, from group adventures to private tours.</p>
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+      </li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://via.placeholder.com/150" alt="Beautiful beach destination">
+      </a>
+      <figcaption>Tropical Beaches Escape</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://via.placeholder.com/150" alt="Mountain landscape tour">
+      </a>
+      <figcaption>Adventures in the Mountains</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://via.placeholder.com/150" alt="Historic city travel package">
+      </a>
+      <figcaption>Cultural & Historic City Tour</figcaption>
+    </figure>
+  </body>
+</html>
