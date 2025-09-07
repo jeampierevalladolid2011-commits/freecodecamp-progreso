@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pan con Chicharron</title>
+</head>
+<body>
+    <h1>Pan con Chicharron</h1>
+    <p>El pan con Chicharon es un desayuno del Perú</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Pan</li>
+        <li>Chicharrón</li>
+        <li>Ají</li>
+        <li>Cebolla</li>
+        <li>Limón</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+        <li>Freir el chicharrón en una sarten.</li>
+        <li>Calentar el pan.</li>
+        <li>Armar el sándwich con el chicharrón, ají, cebolla y limón.</li>
+        <li>Disfruta pe</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Pan con Chicharrón">
+</body>
+</html>
